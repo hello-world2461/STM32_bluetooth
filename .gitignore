@@ -1,0 +1,19 @@
+# Backup files
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Cache and library files
+*-cache.lib
+*-rescue.lib
+
+# Build directories
+__pycache__/
+build/
+
+# Exported or generated files
+*.png
+*.svg
+*.pdf
+*.gbr
+*.drl
