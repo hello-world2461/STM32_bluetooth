@@ -1,4 +1,4 @@
-24134956235556714
+24159288583395139
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2681,6 +2681,13 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 Capacitor_SMD
+CAP_EEFC_E_PAN
+
+EEE-FC1E470P 
+0
+2
+2
+Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
 Capacitor Electrolytic
@@ -3384,6 +3391,20 @@ Capacitor_SMD
 C_Trimmer_Voltronics_JZ
 trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
  Voltronics JR
+0
+2
+2
+Capacitor_THT
+CAP_YX_8X11P5_RUB
+
+50YXJ100MT78X11.5 
+0
+2
+2
+Capacitor_THT
+CAP_ZSU_G12_PAN
+
+EEH-ZS1E471P 
 0
 2
 2
@@ -54634,6 +54655,34 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DAC0800LCM_SMT
+M16A_TEX
+
+DAC0800LCM 
+0
+16
+16
+DAC0800LCM_SMT
+M16A_TEX-L
+
+DAC0800LCM 
+0
+16
+16
+DAC0800LCM_SMT
+M16A_TEX-M
+
+DAC0800LCM 
+0
+16
+16
+DAC0800LCM_THT
+N16E_TEX
+
+DAC0800LCN/NOPB 
+0
+16
+16
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -55205,6 +55254,13 @@ Diode_SMD
 Vishay_SMPA
 Diode SMPA (DO-221BC), https://www.vishay.com/docs/87659/v8pa10.pdf
 Diode SMPA (DO-221BC)
+0
+2
+2
+Diode_THT
+DO-41_DIO
+
+1N4001G-T 
 0
 2
 2
@@ -87583,6 +87639,20 @@ Potentiometer vertical vishay
 0
 3
 3
+Potentiometer_THT
+TRIM_COM-09806
+
+
+0
+3
+3
+RF
+CONN_RF2-04A-T-00-50-G_ADM
+
+RF2-04A-T-00-50-G 
+0
+5
+5
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -90990,8 +91060,8 @@ DLF162500LT-5028A1
 
 
 0
-0
-0
+4
+4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -92644,6 +92714,27 @@ Logo WEEE
 0
 0
 0
+TL431AIDBZR
+DBZ0003A_L
+
+TL431AIDBZR 
+0
+3
+3
+TL431AIDBZR
+DBZ0003A_M
+
+TL431AIDBZR 
+0
+3
+3
+TL431AIDBZR
+DBZ0003A_N
+
+TL431AIDBZR 
+0
+3
+3
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -97929,6 +98020,13 @@ igbt diode module
 0
 25
 25
+V6560Y
+V6560Y
+
+
+0
+0
+0
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
