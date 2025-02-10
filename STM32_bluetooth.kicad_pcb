@@ -89,6 +89,8 @@
 		)
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
+		(aux_axis_origin 49.75 116)
+		(grid_origin 49.75 116)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -15322,7 +15324,7 @@
 		(polygon
 			(pts
 				(xy 89.1 98.82) (xy 95.59 98.82) (xy 95.59 96.46) (xy 100.51 96.46) (xy 100.51 102.98) (xy 95.54 102.97)
-				(xy 89.13 102.98) (xy 89.1 98.82)
+				(xy 89.13 102.98)
 			)
 		)
 	)
